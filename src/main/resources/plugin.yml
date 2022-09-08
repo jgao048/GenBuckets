@@ -1,0 +1,8 @@
+name: GenBuckets
+version: ${project.version}
+main: dev.failures.main.GenBuckets
+api-version: 1.16
+depend: [Factions, Vault]
+commands:
+  gen:
+    description: Open GenBucket shop for players.

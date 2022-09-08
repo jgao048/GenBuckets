@@ -1,0 +1,22 @@
+max-blocks: 5
+blocks-per-second: 1
+inventory-full: "&cYour inventory is full, please clear some space"
+money-need: "&cYou don't have enough money to buy this"
+bucket-bought: "&aYou have successfully bought this bucket for %price%"
+shop-name: "&4&lBrutalCraft"
+shop-rows: 2
+shop-contents:
+  '1':
+    name: "&7Cobblestone GenBucket"
+    lore:
+      - "&7Right-click to use"
+    cost: 10000
+    material: LAVA_BUCKET
+    type: COBBLESTONE
+  '2':
+    name: "&eSand GenBucket"
+    lore:
+      - "&7Right-click to use"
+    cost: 15000
+    material: LAVA_BUCKET
+    type: SAND
